@@ -1,6 +1,10 @@
 # FIFO
 
-## The name FIFO stands for first in first out and means that the data written into the buffer first Comes out of it first.
+## The name FIFO stands for first in first out and means that the data written into the buffer First comes out of it first.
+
+### simulation results:
+![image](https://user-images.githubusercontent.com/108411357/219950396-e05fae4c-e3db-4d2c-ab45-1aeb34f24022.png)
+---
 
 ![Capture](https://user-images.githubusercontent.com/108411357/219950215-27365593-c3ca-436b-909c-4404739a4169.PNG)
 
