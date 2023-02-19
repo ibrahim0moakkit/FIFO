@@ -1,6 +1,6 @@
 # FIFO
 
-## The name FIFO stands for first in first out and means that the data written into the buffer First comes out of it first.
+## The name FIFO stands for first in first out and means that the data written into the buffer first comes  of it first.
 ***
 ## Used Icarus to generate the wave forms
 ## If you are using VS code and have Icarus installed write in the terminal window the following:
