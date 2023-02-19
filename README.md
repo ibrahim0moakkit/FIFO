@@ -1,11 +1,13 @@
 # FIFO
 
 ## The name FIFO stands for first in first out and means that the data written into the buffer First comes out of it first.
+***
 ## Used Icarus to generate the wave forms
 ## If you are using VS code and have Icarus installed write in the terminal window the following:
 ## iverilog -o fifo_tb.vvp fifo_tb.v
 ## vvp fifo_tb.vvp
 ## gtkwave
+***
 ### simulation results:
 ![image](https://user-images.githubusercontent.com/108411357/219950396-e05fae4c-e3db-4d2c-ab45-1aeb34f24022.png)
 ***
