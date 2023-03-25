@@ -1,7 +1,7 @@
 # FIFO
 
 ## The name FIFO stands for first in first out and means that the data written into the buffer first comes  of it first.
-## Used to connects between two Asynchronous subsystems
+## Used to connect between two Asynchronous subsystems
 ***
 ## Used Icarus to generate the wave forms
 ## If you are using VS code and have Icarus installed write in the terminal window the following:
